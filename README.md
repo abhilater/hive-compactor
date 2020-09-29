@@ -1,6 +1,6 @@
 # Hive Compactor
 
-A simple Hive table compactor utility which fetches all the partitions of a table
+A simple Hive table compactor utility that fetches all the partitions of a table
 and runs compactions on each of them.
 
 # Usage
